@@ -1,2 +1,2 @@
 # MvcMovieTutorial
-MVC tutorial on Microsoft documentation.
+MVC tutorial from the Microsoft documentation.
